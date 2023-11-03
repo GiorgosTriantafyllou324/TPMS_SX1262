@@ -31,7 +31,7 @@ In order to differentiate between the different functionalities, the variable FU
 
 
 
-----------------------------------------  STEPS TO KEEP POWER CONSUMPTION TO MINIMUM  ---------------------------------------
+--------------------------------  STEPS TO KEEP POWER CONSUMPTION TO MINIMUM  -------------------------------
 * Internal DC-DC converter at SX1262 used
 * Use of internal oscillator in the radio transceiver when possible
 * STM32L4 used at a clock frequency of 1MHz from MSI and Low Power Run mode when running
