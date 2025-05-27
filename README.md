@@ -1,7 +1,7 @@
 # TPMS_SX1262
 The TPMS board is designed to measure the pressure of the 4 wheels of a race car. It is designed to communicate with the Telemetry system on the car. Visit the ```Telemetry_SX1262_STM32``` repository for further documentation. 
 
-The file **TPMS-Report.pdf*** contains a brief description of the Hardware, the Embedded code and the communication policy used.
+The file ***TPMS-Report.pdf*** contains a brief description of the Hardware, the Embedded code and the communication policy used.
 
 The code is written for the STM32 MCU family (STM32L412)
 TPMS_Code includes SX1262_Radio_Transceiver Drivers (Based on the Semtech drivers) to transmit the sensor measurements wirelessly.
