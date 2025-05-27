@@ -8,8 +8,8 @@ TPMS_Code includes SX1262_Radio_Transceiver Drivers (Based on the Semtech driver
 
 
 The custom libraries are included in the following paths:
-- TPMS_Code\Core\Inc
-- TPMS_Code\Core\Src
+- TPMS_Code/Core/Inc
+- TPMS_Code/Core/Src
 
 
 The SX1262 Drivers are:
