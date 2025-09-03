@@ -15,8 +15,10 @@ The custom libraries are included in the following paths:
 The SX1262 Drivers are:
 
 * ```SX1262.c``` / ```SX1262.h``` : They include the basic structs / functions for the operation of the SX1262. They can be used by any MCU.
+
 * ```SX1262_hal.c``` / ```SX1262_hal.h``` : They include low level functions pertaining the SPI communication with the HAL libraries. They can be used by any STM32.
-*``` SX1262_board.c``` & ```SX1262_board.h``` : They include functions that have to be initialized accordinf to the specific PCB design of each application.
+
+*``` SX1262_board.c``` & ```SX1262_board.h``` : They include functions that have to be initialized according to the specific PCB design of each application.
 
 
 Also, there are other libraries concerning the communication of the temperature-pressure sensor:
